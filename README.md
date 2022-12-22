@@ -1,2 +1,5 @@
 # xbox-skins-archive
-collection of unleashx skins (from xbox-skins.net, and some new from various other places)
+
+fancy and organized archive of original xbox unleashx skins downloaded from archive.org for the unleashx skin downloader
+
+(i dont know why im hosting this on github i just dont have the server storage space to do it at home)
